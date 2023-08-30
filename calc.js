@@ -18,3 +18,8 @@ function divide(num1, num2) {
     return num1/num2;
 }
 console.log("divide Of Two Number is =>  ",sum(3,4));
+
+function square(num1) {
+    return num1*num1;
+}
+console.log("square Of Number is =>  ",sum(3));
